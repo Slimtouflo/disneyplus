@@ -1,0 +1,22 @@
+.containerDetail {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    gap: 2rem;
+    width: 90%;
+    margin: auto;
+    margin-top: 5rem;
+}
+
+button {
+    background-color: #00b9dc;
+    padding: 3px 10px;
+    border: none;
+    color: white;
+    border-radius: 6px;
+    font-size: larger;
+}
+
+p {
+    font-size: larger;
+}

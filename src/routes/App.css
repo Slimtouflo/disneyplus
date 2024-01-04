@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    background-color: #444751;
+}
+
+.studios {
+    display: flex;
+    width: 100%;
+    margin: auto;
+    gap: 2rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.studios {
+    width: 25%;
+    border: solid gray;
+    height: 100%;
+}
+
+.logoStudio {
+    width: 150px;
+    
+}
+
+.containerNew {
+    width: 90%;
+    margin: auto;
+    color: white;
+}
+
+.movieList {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    gap: 1rem;
+}
+
+.moviePoster {
+    max-width: 100%;
+    width: 100%;
+    margin: auto;
+    filter: drop-shadow(0 0 0.5rem black);
+    border-radius: 5px;
+}
+
+.movieCoverLinks {
+    width: 33%;
+}
+
+.movieCover {
+    width: 100%;
+    margin: auto;
+    filter: drop-shadow(0 0 0.5rem black);
+    border-radius: 5px;
+}
